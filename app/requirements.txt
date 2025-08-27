@@ -1,0 +1,11 @@
+pandas==2.2.2
+numpy==2.0.2
+scikit-learn==1.6.1
+imbalanced-learn==0.14.0
+joblib==1.5.1
+
+# App frameworks
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.8.2
+streamlit==1.37.1
